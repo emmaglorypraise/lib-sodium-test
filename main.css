@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    line-height: 2;
+}
+main{
+    background-color: black;
+    color: white;
+    min-width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    /* height: 700px; */
+}
+form{
+    margin: 30px 0px;
+}
+
+form button {
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    width: 100px;
+}
